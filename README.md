@@ -2,7 +2,7 @@
 
 1 数据集为aclImdb，可在此下载http://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz
 
-！[imdb]https://github.com/ReOneK/Text-Cnn/blob/master/imdb.png
+![IMDB数据集结构](https://github.com/ReOneK/Text-Cnn/blob/master/imdb.png)
 
 2 read_file.py 进行文本读取，设置相应数据的标签（积极的文本设为1，消极的设为0）
 
