@@ -11,7 +11,7 @@
 ②使数字特征长度相同。原因是text-cnn中含有全连接层，因此输入必须是定长
 ③使用Embedding层将每个词编码转换为词向量
 
-！[model introduce](https://github.com/ReOneK/Text-Cnn/blob/master/模型介绍.png)
+！[model introduce](https://github.com/ReOneK/Text-Cnn/blob/master/model.png)
 
 
 
