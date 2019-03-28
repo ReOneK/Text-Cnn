@@ -11,7 +11,9 @@ CNN-text-classification-keras
 Requirements
 =====
 python 3.6.2
+
 keras   2.2.4
+
 tensorflow-gpu 1.9.0
 
 Traning
